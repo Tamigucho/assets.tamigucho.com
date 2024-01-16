@@ -1,1 +1,0 @@
-the root folder SVGs are, yes, newer than the ones in /old/ subfolder; however, "new" doesn't mean these imgs are BETTER, as they have more details+file size
